@@ -12,22 +12,12 @@ stack : [![stack front](https://skillicons.dev/icons?i=lua,vscode,git)](https://
 
 <br><br>
 
-## 2. Démarrer le projet :
+## 2. Lancer le projet :
 
-
-Aller jusqu'au répertoire du projet, installer les dépendances et lancer le serveur
-
-```
-cd MysteryQuest
-npm install
-npx expo start
-```
-
+[Accéder au jeu](https://www.lexaloffle.com/bbs/?pid=130039)
 
 <br><br>
 
 ## 3. Aperçu :
 
-[Accéder au jeu](https://www.lexaloffle.com/bbs/?pid=130039)
-<br>
   ![Amelia-gif](https://github.com/camhbrt/camhbrt/assets/119520577/d5b695cc-23e8-4dd3-b197-a34618e3af84)
