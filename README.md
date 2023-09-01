@@ -11,7 +11,7 @@ Principe du jeu : Aidez Amelia à sauver son royaume en trouvant l'antidote qui 
 Nous nous sommes inspirées de l'univers de jeux sur Pico-8 tels que Celeste et Rainmaker et également par la série animé Steven Universe. Notre gameplay est basé sur un niveau du premier jeu Rayman. Rayman doit grimper le plus vite possible avant d'être englouti par l'eau (ici pour plus de contexte : https://www.youtube.com/watch?v=gOtb5YnYrYk&t=56s). Nous avons conçu ce jeu en deux semaines sans rien connaître de Pico-8 et du langage Lua. C'était notre premier projet en tant qu'équipe et nous avons beaucoup appris sur ce qu'est la programmation avec Lua.
 
 ### Stack et outils utilisés :
-stack : [![stack front](https://skillicons.dev/icons?i=lua,vscode,git)](https://skillicons.dev) 
+[![stack front](https://skillicons.dev/icons?i=lua,vscode,git)](https://skillicons.dev) 
 
 <br><br>
 
