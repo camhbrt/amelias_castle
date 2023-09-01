@@ -4,8 +4,11 @@
 
 ## 1. Informations Générales :
 
-Jeu vidéo type platformer réalisé par Laure Favre, Camille Hébert, Sayadyna Mehraik et Djeneba Soumare.
-<br> Ce projet collectif réalisé en deux semaine nous a permis de découvrir les fondamentaux de la gestion de projet et le langage LUA.
+Amelia's Castle est un jeu à huits mains réalisé par Camille Hébert, Djeneba Soumare, Laure Favre & Sayadyna Mehraik. Nous avons créé ce jeu dans le cadre d'un projet de groupe dans notre école. Nous sommes à Ada Tech School à Paris en France.
+
+Principe du jeu : Aidez Amelia à sauver son royaume en trouvant l'antidote qui dissipera la fumée violette.
+
+Nous nous sommes inspirées de l'univers de jeux sur Pico-8 tels que Celeste et Rainmaker et également par la série animé Steven Universe. Notre gameplay est basé sur un niveau du premier jeu Rayman. Rayman doit grimper le plus vite possible avant d'être englouti par l'eau (ici pour plus de contexte : https://www.youtube.com/watch?v=gOtb5YnYrYk&t=56s). Nous avons conçu ce jeu en deux semaines sans rien connaître de Pico-8 et du langage Lua. C'était notre premier projet en tant qu'équipe et nous avons beaucoup appris sur ce qu'est la programmation avec Lua.
 
 ### Stack et outils utilisés :
 stack : [![stack front](https://skillicons.dev/icons?i=lua,vscode,git)](https://skillicons.dev) 
